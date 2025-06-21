@@ -37,6 +37,11 @@ A responsive front-end clone of the Spotify Web Player built using **HTML** and 
 # Author
 Made with ❤️ by Sakshi
 
+---
+
+> # ⚠️ Disclaimer: 
+
+This project is a frontend clone created for educational and portfolio purposes only. It is not affiliated with, endorsed by, or connected to Spotify. All trademarks, logos, and images used here belong to their respective owners and are used for demonstration only. 
 
 
 
