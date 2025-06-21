@@ -1,0 +1,43 @@
+# 🎧 Spotify Clone – Web Player UI
+
+A responsive front-end clone of the Spotify Web Player built using **HTML** and **CSS**. This project replicates the layout and design of the official Spotify app, including the sidebar, music cards, playback bar, and more.
+
+---
+
+## 🔗 Live Demo
+
+[Click here to view the live website](https://sakshi330g.github.io/spotifyclone/)  
+> *(Replace the URL above with your actual GitHub Pages link after deploying)*
+
+---
+
+## 💡 Features
+
+- Sidebar with navigation icons (Home, Search, Library)
+- Responsive top sticky nav bar
+- Music cards layout (Recently Played, Trending, Featured Charts)
+- Custom music player footer with:
+  - Song preview
+  - Playback controls
+  - Volume slider
+  - User control icons
+- Responsive design with hover effects
+- Google Fonts and Font Awesome icons used
+
+---
+
+## 🧱 Tech Stack
+
+- HTML5
+- CSS3
+- Font Awesome (CDN)
+- Google Fonts (Montserrat)
+
+---
+# Author
+Made with ❤️ by Sakshi
+
+
+
+
+
